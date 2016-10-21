@@ -1,2 +1,2 @@
 # react-todo
-A to do list using React.JS
+A ToDo App using React.JS
